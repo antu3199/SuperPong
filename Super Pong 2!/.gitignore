@@ -1,9 +1,9 @@
-Super Pong 2!/[Ll]ibrary/
-Super Pong 2!/[Tt]emp/
-Super Pong 2!/[Oo]bj/
-Super Pong 2!/[Bb]uild/
-Super Pong 2!/[Bb]uilds/
-Super Pong 2!/Assets/AssetStoreTools*
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -32,4 +32,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-user.keystore
